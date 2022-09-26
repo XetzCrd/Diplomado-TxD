@@ -4,8 +4,8 @@
 
 void GetHTTPRequest(String url);
 
-const char* ssid[2] = {"redpucp", "Casa"};
-const char* password[2] = {"C9AA28BA93", "SOPADEPOLLOCONCARNE789"};
+const char* ssid[2] = {"red1", "red2"};
+const char* password[2] = {"password1", "password2"};
 int myNet = 1;
 String url = "https://www.google.com/";
 
